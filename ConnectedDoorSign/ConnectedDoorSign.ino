@@ -3,9 +3,9 @@
 * Project       : Connected Door Sign
 * Version       : V1.0
 * By            : David Libeau (davidlibeau.fr)
-* License       : CC-BY
-* GitHub        :
-* Instructable  : 
+* License       : CC-BY-NC-SA
+* GitHub        : https://github.com/DavidLibeau/ConnectedDoorSign
+* Instructable  : http://www.instructables.com/id/Connected-Door-Sign/
 *
 **/
 #include <epd.h>
