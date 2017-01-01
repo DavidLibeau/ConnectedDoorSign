@@ -11,4 +11,4 @@ It uses a ePaper display to consume less energy and to display all the time the 
 
 ##Licence
 
-CC-BY-SA
+CC-BY-NC-SA
