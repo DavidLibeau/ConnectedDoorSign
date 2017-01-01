@@ -1,6 +1,6 @@
 # ConnectedDoorSign
 
->First instructable : (http://www.instructables.com/id/Connected-Door-Sign/)
+>First instructable : http://www.instructables.com/id/Connected-Door-Sign/
 
 The goal of this project is to make a door sign (to say if people can enter or not) but connected to Wifi (and controlled via a webpage).
 
